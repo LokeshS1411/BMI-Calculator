@@ -6,5 +6,8 @@ Run Comment
 
 npm run dev
 
-The output images are in the repository.
+
+OUTPUT:
+![Uploading image.png…]()
+
 
