@@ -8,6 +8,6 @@ npm run dev
 
 
 OUTPUT:
-![Uploading image.png…]()
+
 
 
