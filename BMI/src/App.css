@@ -1,0 +1,140 @@
+*{
+  
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+  background-color:#1d2951;
+}
+.bmi-container{
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  position: relative;
+  left: 300px;
+  top: 50px;
+
+ 
+
+  
+}
+.box{
+  background-color: aliceblue;
+  width: 800px;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  background-image: url("assets/bmi.png");
+  background-size: 400px;
+  background-repeat: no-repeat;
+  background-position-x: -1px;
+  background-position-y: 40px;
+  border-radius: 20px;
+}
+.box .box2{
+  position: relative;
+  left: 220PX;
+  font-size: 25PX;
+}
+.bmi-head h1{
+  font-size: 45px;
+  position: relative;
+  top: -20px;
+  left: -170px;
+
+}
+.data1,.data2,.btn,.result{
+  padding-left: 50px;
+  position: relative;
+  padding-bottom: 10px;
+  top: -20px;
+}
+label{
+  display: block;
+  /* color: grey; */
+  margin-bottom: 10px;
+  position: relative;
+  top: 30px;
+  font-size: 19px;
+  
+}
+input{
+  width: 70%;
+  padding: 10px;
+  border: 1px solid gray;
+  border-radius: 8px;
+  font-size: 16px;
+  position: relative;
+  top: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+button{
+  width: 60%;
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 20px;
+  font-weight: 600;
+  background-color: rgb(26, 0, 226);
+  color: rgb(245, 234, 234);
+  transition: background-color 0.3s;
+  cursor: pointer;
+  position: relative;
+  top: 40px;
+
+}
+button:hover{
+  background-color: rgb(16, 16, 93);
+}
+.result{
+  background-color: aqua;
+  position: relative;
+  top: 30px;
+  padding: 5px;
+  border-radius: 10px;
+  width: 380px;
+  font-size: 16px;
+
+
+}
+.result p{
+  margin-left: 40px;
+}
+b{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400;
+}
+.para{
+  
+  border: 2px solid black;
+  width: 200px;  
+  height: 100px;
+}
+.para{
+  height: 500px;
+  width: 500px;
+  position: relative;
+  bottom: 600px;
+  font-size: 20px;
+  right: -40px;
+  bottom: 480px;
+  color: aliceblue;
+  border-radius: 10px;
+  border: none;
+}
+li{
+  padding: 28px;
+}
+.title h1{
+  color: aliceblue;
+  text-align: center;
+  font-size: 50px;
+  font-family: 'Times New Roman', Times, serif;
+  color: #53a6e6;
+  box-shadow: inset 2px 3px 10px ,
+               inset 4px 5px 20px ;
+ 
+}
