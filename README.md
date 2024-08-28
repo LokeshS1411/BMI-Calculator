@@ -1,7 +1,3 @@
-Here’s the updated README template for your BMI Calculator project using React and Vite:
-
----
-
 # BMI Calculator
 
 ## Project Overview
@@ -39,7 +35,7 @@ This is a BMI (Body Mass Index) Calculator application built using React.js and 
 
 ### Clone the repository
 ```bash
-git clone https://github.com/yourusername/bmi-calculator.git
+git clone https://github.com/LokeshS1411/BMI-Calculator.git
 cd bmi-calculator
 ```
 
@@ -81,12 +77,13 @@ Feel free to fork this repository and submit pull requests. For major changes, p
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-You can customize this template to fit your project details and then add it to your GitHub repository.
 
 
 OUTPUT:
+
+![Uploading BMI.png…]()
+
 
 
 
