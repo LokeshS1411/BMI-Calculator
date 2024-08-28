@@ -77,12 +77,10 @@ Feel free to fork this repository and submit pull requests. For major changes, p
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-
-
-
 OUTPUT:
 
-![Uploading BMI.png…]()
+![BMI](https://github.com/user-attachments/assets/bb7aef86-a92c-47bd-b347-b7b4f6cec1f7)
+
 
 
 
